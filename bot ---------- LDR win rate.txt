@@ -1,0 +1,7 @@
+bot ---------- LDR win rate
+
+corners		85%, 80%, 85% (10 rounds, the rest is 5 rounds)
+crazy		55%, 51%, 53%
+fire		43%, 49%, 46%
+
+
