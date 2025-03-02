@@ -1,4 +1,4 @@
-package dkit;
+package LDRRobot;
 import robocode.*;
 import java.awt.Color;
 import java.util.Random;
